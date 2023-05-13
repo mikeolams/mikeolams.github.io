@@ -1,27 +1,19 @@
-# MyApp
+# MichaelProfile
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
-## Development server
+## Purpose
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This is to show Michael Olamikan portfolio and software skills in various development technologies. You may navigate through the site to appreciate his work and skills.
 
-## Code scaffolding
+## Contribution
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You can contact michael via mikeolams@gmail.com if you wish to make a contributon of any sort to this site
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+The build is purely angular frame work with all related tools
 
-## Running unit tests
+## Further info
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more information on (https://angular.io/cli) page.
